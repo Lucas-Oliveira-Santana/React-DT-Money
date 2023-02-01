@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 11000,
+      "createdAt": "2023-01-11T20:30:45.576Z"
+    },
+    {
+      "id": 2,
+      "description": "Lanche da madrugada",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 52,
+      "createdAt": "2023-01-22T20:30:45.576Z"
+    },
+    {
+      "id": 3,
+      "description": "pizza",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 34,
+      "createdAt": "2023-01-20T20:30:45.576Z"
+    },
+    {
+      "description": "sada",
+      "price": 10,
+      "category": "coisas de casa",
+      "type": "outcome",
+      "createdAt": "2023-01-31T23:46:36.271Z",
+      "id": 4
+    },
+    {
+      "description": "casa",
+      "price": 100000,
+      "category": "casa",
+      "type": "income",
+      "createdAt": "2023-02-01T00:02:38.907Z",
+      "id": 5
+    }
+  ]
+}
